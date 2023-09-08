@@ -1,0 +1,1 @@
+# Jomacs-bash-scripting-assingment
